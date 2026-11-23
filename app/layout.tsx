@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Donde habitan los versos | Poemario",
-  description: "Una experiencia literaria interactiva en tres partes: amor, nostalgia y esperanza.",
+  title: "Poemario",
+  description: "27 formas de recordar y querer.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
