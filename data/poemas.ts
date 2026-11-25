@@ -836,7 +836,7 @@ poemas: [
     id: "latido-27",
     titulo: "Latido 27.",
     estrofas: [
-      "No sé explicar todo lo que siento por usted, pero si tuviera que resumirlo en una palabra, sería paz.",
+      "No sé explicar todo lo que siento por usted, solo amo la paz de verle sonreír.",
     ],
   },
 ],
