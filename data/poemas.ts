@@ -696,7 +696,7 @@ poemas: [
     id: "latido-07",
     titulo: "Latido 7.",
     estrofas: [
-      "Amaba mi soledad hasta que conocí sy compañía.",
+      "Amaba mi soledad hasta que conocí su compañía.",
     ],
   },
   {
@@ -752,7 +752,7 @@ poemas: [
     id: "latido-15",
     titulo: "Latido 15.",
     estrofas: [
-      "Hay días pesados que se arreglan con una sola cosa: saber que voy a verla aunque sea cinco minutos.",
+      "Hay días pesados que se arreglan con una sola cosa: saber que voy a verle.",
     ],
   },
   {
@@ -766,7 +766,7 @@ poemas: [
     id: "latido-17",
     titulo: "Latido 17.",
     estrofas: [
-      "No busco que sea perfecta, me basta con que siga siendo exactamente así: tan auténtica cuando nadie la observa.",
+      "Blondet, su nombre siempre será mi poema favorito.",
     ],
   },
   {

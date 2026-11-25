@@ -381,7 +381,7 @@ function ContenidoPagina({
           <p>
             Que al menos un verso
             <br />
-            se vaya contigo.
+            se vaya con usted.
           </p>
 
           <p className="dedication-text">
